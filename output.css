@@ -1,0 +1,35 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/*Google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,800;0,1000;1,700;1,800;1,900;1,1000&display=swap');
+
+
+.font-nunito {
+    font-family: nunito, sans-serif;
+  }
+.font-MyFont {
+    font-family: "My Font", serif;
+  }
+
+/*
+
+.card{
+  @apply;
+}
+
+.badge{
+  @apply 
+}
+
+*/
+
+
+
+
+
+
+
